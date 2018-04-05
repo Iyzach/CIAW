@@ -1,0 +1,10 @@
+name: CIAW
+author: Iyzach
+version: 1.0
+main: iyzach.CIAW.main.CIAW
+description: A test plugin
+softdepend: [ CustomRecipeLib ]
+commands:
+    summonbee:
+        usage: /<command>
+        description: Null
